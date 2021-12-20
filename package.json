@@ -1,0 +1,23 @@
+{
+  "name": "task-pertemuan-11",
+  "version": "1.0.0",
+  "description": "task about express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdfahmi07/task-pertemuan-11.git"
+  },
+  "author": "Abdulloh Fahmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdfahmi07/task-pertemuan-11/issues"
+  },
+  "homepage": "https://github.com/abdfahmi07/task-pertemuan-11#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {}
+}
